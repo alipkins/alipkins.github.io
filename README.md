@@ -1,0 +1,1 @@
+This GitHub account is used to create repositories and different code for my projects in class. I have created the repository by adding a new document and naming it after my username. Once done with that, I used the GitHub desktop app to clone my repository and add it to my files by naming it 'alipkins.github.io". Once completed, I submitted it to my class by using an IRL.
